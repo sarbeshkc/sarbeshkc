@@ -13,4 +13,3 @@ I'm currently working on making my own game<br>I'm looking for collaboration and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbeshkc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarbeshkc&icon=0&color=0)](https://visitcount.itsvg.in)
