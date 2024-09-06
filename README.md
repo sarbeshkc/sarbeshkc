@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Sarbesh KC | Aspiring Game Developer & System Engineer 🖥️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Godot+Game+Developer;Eager+to+Learn+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Godot+Game+Developer;Exploring+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ I'm at the beginning of my journey in game development with Godot, and I'm excit
 Feel free to reach out for collaborations, mentorship, or just a friendly chat about Godot and game development!
 
 <p align="center">
-  <a href="sarbeshkcc07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="sarbeshkcc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
