@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Sarbesh KC | Aspiring Game Developer & System Engineer 🖥️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+about+Game+Development;Eager+to+Learn+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Godot+Game+Developer;Eager+to+Learn+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
 </p>
 
 <p align="center">
@@ -13,22 +13,23 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in game development and system engineering. I'm enthusiastic about learning new technologies and applying them to create innovative solutions.
+Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in game development using Godot Engine and system engineering. I'm enthusiastic about creating innovative games and optimizing software systems.
 
 - 🎓 Currently pursuing a degree in Computer Science
-- 🎮 Aspiring game developer with a focus on creating engaging and immersive experiences
+- 🎮 Aspiring game developer focused on Godot Engine and GDScript
 - 💻 Fascinated by system-level programming and optimization
-- 🌱 Constantly learning and expanding my skillset in programming languages and game engines
-- 🤝 Eager to collaborate on exciting projects and contribute to the tech community
+- 🌱 Constantly learning and expanding my skillset in game development and programming
+- 🤝 Eager to collaborate on exciting game projects and contribute to the Godot community
 - 💼 Actively seeking internships and entry-level opportunities in game development and software engineering
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
@@ -38,22 +39,24 @@ Hello! I'm a passionate Computer Science student at Kathmandu University, Nepal,
 
 ## 🚀 What I'm Currently Learning
 
-- Advanced C++ programming techniques for game development
+- Advanced Godot Engine techniques and best practices
+- GDScript optimization for better game performance
+- 2D and 3D game development workflows in Godot
+- Shader programming in Godot for stunning visual effects
 - Game design principles and level design
-- System optimization and low-level programming
-- 3D modeling and animation with Blender
-- Web development with Vue.js and Vite
+- Version control with Git for game development
+- 3D modeling and animation with Blender for game assets
 
 ## 💡 Project Ideas & Interests
 
-While I haven't completed any major projects yet, I'm bursting with ideas and eager to bring them to life! Here are some areas I'm particularly excited about:
+While I haven't completed any major projects yet, I'm bursting with ideas and eager to bring them to life using Godot Engine! Here are some areas I'm particularly excited about:
 
-1. **2D Platformer Game**: Developing a game that incorporates Nepali folklore and mythology.
-2. **System Optimization Tool**: Creating a utility to enhance performance on low-end computers.
-3. **Educational Game**: Designing an interactive game to teach programming concepts to beginners.
-4. **Community-driven Web App**: Building a platform for Kathmandu University students to share resources and collaborate.
+1. **2D Platformer Game**: Developing a game that incorporates Nepali folklore and mythology using Godot's 2D engine.
+2. **3D Adventure Game**: Creating an immersive 3D world with Godot's 3D capabilities.
+3. **Educational Game**: Designing an interactive game to teach programming concepts to beginners, leveraging Godot's user-friendly interface.
+4. **Mobile Puzzle Game**: Building a challenging puzzle game for mobile platforms using Godot's cross-platform export feature.
 
-I'm always open to new ideas and would love to collaborate on projects in these areas or explore entirely new concepts!
+I'm always open to new ideas and would love to collaborate on Godot projects in these areas or explore entirely new concepts!
 
 ## 📊 GitHub Stats
 
@@ -67,16 +70,16 @@ I'm always open to new ideas and would love to collaborate on projects in these 
 
 ## 🤝 Let's Connect and Create!
 
-I'm at the beginning of my journey in tech and game development, and I'm excited to learn, grow, and contribute. Whether you're a fellow student, an experienced developer, or someone with a cool project idea, I'd love to connect!
+I'm at the beginning of my journey in game development with Godot, and I'm excited to learn, grow, and contribute. Whether you're a fellow Godot enthusiast, an experienced game developer, or someone with a cool game idea, I'd love to connect!
 
-- 💼 Seeking internships and entry-level opportunities in game development and software engineering
-- 🤝 Eager to collaborate on open-source projects or game jams
-- 📚 Always ready to learn from and connect with experienced developers
+- 💼 Seeking internships and entry-level opportunities in game development
+- 🤝 Eager to collaborate on open-source Godot projects or game jams
+- 📚 Always ready to learn from and connect with experienced Godot developers
 
-Feel free to reach out for collaborations, mentorship, or just a friendly chat about technology and games!
+Feel free to reach out for collaborations, mentorship, or just a friendly chat about Godot and game development!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="sarbeshkcc07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -86,5 +89,5 @@ Feel free to reach out for collaborations, mentorship, or just a friendly chat a
 </p>
 
 <p align="center">
-  <i>"The expert in anything was once a beginner." - Helen Hayes</i>
+  <i>"In the world of game development, every line of code is a step towards bringing imagination to life." - Unknown</i>
 </p>
