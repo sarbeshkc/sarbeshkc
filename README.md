@@ -1,47 +1,70 @@
 # 👋 Hello, I'm Sarbesh KC!
 
-## 💫 About Me:
-I'm a Computer Science student at Kathmandu University, Nepal, with a passion for:
-- 🎮 Game Development
-- 💻 System Development
-- 🚀 Creating innovative solutions
+[![GitHub followers](https://img.shields.io/github/followers/sarbeshkc?label=Follow&style=social)](https://github.com/sarbeshkc)
+[![LinkedIn](https://img.shields.io/badge/-Sarbesh_KC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sarbesh-kc-66b571307)](https://linkedin.com/in/sarbesh-kc-66b571307)
+[![Discord](https://img.shields.io/badge/-Sarbesh_KC-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/838341643874336818)
 
-Currently, I'm working on developing my own game and looking for collaborators, especially artists!
+## 🚀 About Me
 
-## 🛠 Tech Stack:
-- Game Dev: Godot Engine, GDScript
-- Languages: C++, JavaScript, Python, C
-- Web: Vue.js, Vite
-- Databases: SQLite, Redis
-- Design: Adobe Photoshop, Adobe Premiere Pro, Blender
+I'm a passionate Computer Science student at Kathmandu University, Nepal, with a keen interest in Game Development and System Development. I'm on a mission to create immersive gaming experiences and robust software solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarbeshkc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarbesh-kc-66b571307)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@EdgerOdin)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/838341643874336818)
+- 🎮 Currently working on an exciting game project (seeking collaborators!)
+- 💻 Exploring the depths of system-level programming
+- 🌱 Always learning and expanding my tech stack
+- 👯 Open to collaborate on innovative projects
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+## 🛠️ Technologies & Tools
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarbeshkc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarbeshkc&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbeshkc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe_Creative_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
-## 🎯 Current Focus:
-I'm currently diving deep into game development and always looking to expand my knowledge in system development. If you're interested in collaborating on exciting projects or just want to connect, feel free to reach out!
+## 🎯 Featured Projects
+
+### 🕹️ [Awesome Game Project] - In Development
+A thrilling 2D platformer built with Godot Engine, featuring dynamic level generation and a unique power-up system.
+- **Tech Stack:** Godot, GDScript, C++
+- **Looking for:** Artists and level designers to collaborate!
+
+### 🖥️ [System Optimization Tool]
+A powerful utility that enhances system performance through intelligent resource management.
+- **Tech Stack:** C++, Python
+- **Key Features:** Memory optimization, process scheduling
+
+### 🌐 [Web Dashboard]
+A responsive web dashboard for data visualization, built with Vue.js and Vite.
+- **Tech Stack:** Vue.js, Vite, JavaScript
+- **Features:** Real-time data updates, customizable widgets
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarbeshkc&show_icons=true&theme=gotham" alt="sarbeshkc's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeshkc&theme=gotham" alt="sarbeshkc's Streak" />
+</p>
+
+## 🤝 Let's Connect!
+
+I'm always excited to work on challenging projects and collaborate with fellow developers. If you're interested in game development, system optimization, or just want to chat about tech, feel free to reach out!
+
+- 💼 [LinkedIn](https://linkedin.com/in/sarbesh-kc-66b571307)
+- 🐦 [Twitter](https://twitter.com/EdgerOdin)
+- 📷 [Instagram](https://instagram.com/sarbeshkc)
+- 🎮 [Discord](https://discord.com/users/838341643874336818)
+
+💡 Open to internships, collaborations, and exciting project opportunities!
 
 ---
-⭐️ From [sarbeshkc](https://github.com/sarbeshkc)
+
+<p align="center">
+  <i>Let's create something awesome together!</i>
+</p>
